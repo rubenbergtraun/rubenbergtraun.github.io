@@ -99,7 +99,7 @@
 }
 
 body {
-  background-color: var(--ucla-darker-gold);
+  background-color: orange;
   color: var(--black-80);
   font-family: var(--font-family);
   font-size: var(--font-size);
